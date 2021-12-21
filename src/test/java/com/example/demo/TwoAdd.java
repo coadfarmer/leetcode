@@ -2,9 +2,6 @@ package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.LinkedList;
-import java.util.List;
-
 /**
  * @Author: xjjiang
  * @Data: 2021/12/21 16:11
