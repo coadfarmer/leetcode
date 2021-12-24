@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
  * @Data: 2021/12/21 16:11
  * @Description:
  */
-public class TwoAdd {
+public class Test2 {
 
     @Test
     public void test() {
@@ -44,7 +44,7 @@ public class TwoAdd {
         return pre.next;
     }
 
-    public class ListNode {
+    public static class ListNode {
         int val;
         ListNode next;
 
